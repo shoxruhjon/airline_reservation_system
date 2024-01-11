@@ -1,0 +1,74 @@
+[
+  {
+  "flightNumber": 21,
+  "departureFrom": "Samarkand",
+  "arrivalTo": "Toshkent",
+  "departureDateTime": "2024-01-07 11:11",
+  "arrivalDateTime": "2024-01-07 01:10",
+  "availableSeats": 121,
+  "ticketPrice": 333123
+  },
+  {
+    "flightNumber": 22,
+    "departureFrom": "Samarkand",
+    "arrivalTo": "Toshkent",
+    "departureDateTime": "2024-01-07 11:11",
+    "arrivalDateTime": "2024-01-07 01:10",
+    "availableSeats": 121,
+    "ticketPrice": 333123
+  },
+  {
+    "flightNumber": 23,
+    "departureFrom": "Samarkand",
+    "arrivalTo": "Toshkent",
+    "departureDateTime": "2024-01-07 11:11",
+    "arrivalDateTime": "2024-01-07 01:10",
+    "availableSeats": 121,
+    "ticketPrice": 333123
+  },
+  {
+    "flightNumber": 12,
+    "departureFrom": "Samarkand",
+    "arrivalTo": "Toshkent",
+    "departureDateTime": "2024-01-07 11:11",
+    "arrivalDateTime": "2024-01-07 01:10",
+    "availableSeats": 121,
+    "ticketPrice": 333123
+  },
+  {
+    "flightNumber": 34,
+    "departureFrom": "Samarkand",
+    "arrivalTo": "Toshkent",
+    "departureDateTime": "2024-01-07 11:11",
+    "arrivalDateTime": "2024-01-07 01:10",
+    "availableSeats": 121,
+    "ticketPrice": 333123
+  },
+  {
+    "flightNumber": 45,
+    "departureFrom": "Samarkand",
+    "arrivalTo": "Toshkent",
+    "departureDateTime": "2024-01-07 11:11",
+    "arrivalDateTime": "2024-01-07 01:10",
+    "availableSeats": 121,
+    "ticketPrice": 333123
+  },
+  {
+    "flightNumber": 56,
+    "departureFrom": "Samarkand",
+    "arrivalTo": "Toshkent",
+    "departureDateTime": "2024-01-07 11:11",
+    "arrivalDateTime": "2024-01-07 01:10",
+    "availableSeats": 121,
+    "ticketPrice": 333123
+  },
+  {
+    "flightNumber": 265,
+    "departureFrom": "Samarkand",
+    "arrivalTo": "Toshkent",
+    "departureDateTime": "2024-02-07 11:11",
+    "arrivalDateTime": "2024-02-07 01:10",
+    "availableSeats": 45,
+    "ticketPrice": 501231.123
+  }
+]
